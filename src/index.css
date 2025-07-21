@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  display:flexbox;
+  border-radius: 46px;
+  background: url("/bueaty space.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: sans-serif;
+}
+

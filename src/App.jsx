@@ -7,7 +7,6 @@ export default function App() {
   const [selectedColor, setSelectedColor] = useState(null);
   const handleColorClick = (color) => setSelectedColor(color);
   const resetColor = () => setSelectedColor(null);
-  const colors = [ 'black', 'white', 'green', 'white', 'black', 'orange', 'purple' ];
 
   return (
     <div style={{ padding: '30px', fontFamily: 'Arial', color: 'white' }}>
